@@ -2,7 +2,7 @@ package mystring
 
 import (
   "testing"
-  "silvanolte.com/sildani/gobook/mystring"
+  "silvanolte.com/gobook/mystring"
 )
 
 func TestReverse(t *testing.T) {

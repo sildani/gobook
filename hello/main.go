@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "silvanolte.com/sildani/gobook/mystring"
+  "silvanolte.com/gobook/mystring"
 )
 
 func main() {

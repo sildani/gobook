@@ -1,4 +1,4 @@
-package mystring // "silvanolte.com/sildani/gobook/mystring"
+package mystring // "silvanolte.com/gobook/mystring"
 
 func Reverse(s string) string {
   b := []rune(s)
